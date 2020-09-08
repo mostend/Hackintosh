@@ -5,6 +5,7 @@ Z370-A 9600K Hackintosh
   - opencore 0.6.1
 
 ## hardware
+  - MSI Z370-
   - Intel 9600K
   - RX560
   - Realtek 8111

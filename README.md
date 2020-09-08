@@ -1,6 +1,9 @@
 # Hackintosh
 Z370-A 9600K Hackintosh
 
+## software 
+  - opencore 0.6.1
+
 ## hardware
   - Intel 9600K
   - RX560

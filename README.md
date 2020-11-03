@@ -2,7 +2,7 @@
 Z370-A 9600K Hackintosh
 
 ## software 
-  - opencore 0.6.2
+  - opencore 0.6.3
 
 ## hardware
   - MSI Z370-A

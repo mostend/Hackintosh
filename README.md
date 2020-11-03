@@ -1,6 +1,9 @@
 # Hackintosh
 Z370-A 9600K Hackintosh
 
+# OS
+macOS 10.15.7
+
 ## software 
   - opencore 0.6.3
 

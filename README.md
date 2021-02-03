@@ -2,10 +2,10 @@
 Z370-A 9600K Hackintosh
 
 # OS
-  - macOS 11.1
+  - macOS 11.2
 
 ## software 
-  - opencore 0.6.5
+  - opencore 0.6.6
 
 ## hardware
   - MSI Z370-A
@@ -22,7 +22,6 @@ Z370-A 9600K Hackintosh
   - audio
   - sleep
   ...
-  
   
   
 maybe that's ok ..., have fun

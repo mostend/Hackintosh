@@ -5,7 +5,7 @@ Z370-A 9600K Hackintosh
   - macOS 11.5.2
 
 ## software 
-  - opencore 0.7.2
+  - opencore 0.7.3
 
 ## hardware
   - MSI Z370-A

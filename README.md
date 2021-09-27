@@ -2,7 +2,7 @@
 Z370-A 9600K Hackintosh
 
 # OS
-  - macOS 11.5.2
+  - macOS 11.6
 
 ## software 
   - opencore 0.7.3

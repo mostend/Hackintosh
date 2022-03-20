@@ -2,10 +2,10 @@
 Z370-A 9600K Hackintosh
 
 # OS
-  - macOS 12.0.1
+  - macOS 12.3
 
 ## software 
-  - opencore 0.7.5 Beta
+  - opencore 0.7.7
 
 ## hardware
   - MSI Z370-A
@@ -13,15 +13,15 @@ Z370-A 9600K Hackintosh
   - RX560
   - Realtek 8111
   - SN750
-  - fenvi T919
+  - Fenvi T919
   
 
 ## working 
   - CPU 
   - GPU
-  - audio
-  - sleep
+  - Audio
+  - Sleep
   ...
   
   
-maybe that's ok ..., have fun
+Maybe that's ok ..., have fun

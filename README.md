@@ -4,7 +4,7 @@ Base on daliansky Z370-A
 https://github.com/daliansky/Z370-Hackintosh
 
 # OS
-  - macOS 12.6
+  - macOS 13.2.1
 
 ## software 
   - opencore 0.9.9

@@ -1,13 +1,14 @@
 # Hackintosh
 Z370-A 9600K Hackintosh
+###
 Base on daliansky Z370-A 
 https://github.com/daliansky/Z370-Hackintosh
 
 # OS
-  - macOS 13.2.1
+  - macOS 13.4
 
 ## software 
-  - opencore 0.9.9
+  - opencore 0.9.3
 
 ## hardware
   - MSI Z370-A

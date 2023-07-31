@@ -1,3 +1,5 @@
+# Won't be updating again. Because I have a MacBook Pro.
+
 # Hackintosh
 Z370-A 9600K Hackintosh
 ###
